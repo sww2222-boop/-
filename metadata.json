@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoPark Wisdom - National Park Knowledge Platform",
+  "description": "A one-stop knowledge platform for national park professionals, integrating policy mapping, academic resources, career development, and smart management tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
